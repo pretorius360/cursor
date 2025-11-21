@@ -1,0 +1,264 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "761": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 0.6,
+          "StaticItemId": "PalSphere",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "762": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 0.3,
+          "StaticItemId": "PalSphere_Mega",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "763": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 0.075,
+          "StaticItemId": "PalSphere_Giga",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "764": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 0.02,
+          "StaticItemId": "PalSphere_Tera",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "765": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 0.005,
+          "StaticItemId": "PalSphere_Master",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "766": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 0.43,
+          "StaticItemId": "PalSphere",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "767": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 0.43,
+          "StaticItemId": "PalSphere_Mega",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "768": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 0.1075,
+          "StaticItemId": "PalSphere_Giga",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "769": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 0.025,
+          "StaticItemId": "PalSphere_Tera",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "770": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 0.0075,
+          "StaticItemId": "PalSphere_Master",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "771": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 0.355,
+          "StaticItemId": "PalSphere",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "772": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 0.355,
+          "StaticItemId": "PalSphere_Mega",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "773": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 0.18,
+          "StaticItemId": "PalSphere_Giga",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "774": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 0.09,
+          "StaticItemId": "PalSphere_Tera",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "775": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 0.02,
+          "StaticItemId": "PalSphere_Master",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "776": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 0.36,
+          "StaticItemId": "PalSphere_Mega",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "777": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 0.36,
+          "StaticItemId": "PalSphere_Giga",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "778": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 0.18,
+          "StaticItemId": "PalSphere_Tera",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "779": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 0.08,
+          "StaticItemId": "PalSphere_Master",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "780": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 0.02,
+          "StaticItemId": "PalSphere_Legend",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "781": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 0.35,
+          "StaticItemId": "PalSphere_Giga",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "782": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 0.35,
+          "StaticItemId": "PalSphere_Tera",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "783": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 0.18,
+          "StaticItemId": "PalSphere_Master",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "784": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 0.085,
+          "StaticItemId": "PalSphere_Legend",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "785": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 0.025,
+          "StaticItemId": "PalSphere_Ultimate",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "786": {
+          "FieldName": "CharacterSpawnItem_CuteFoxRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 0.005,
+          "StaticItemId": "PalSphere_Exotic",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "a8c799be_DarkAlien001" : {
+		  "FieldName": "CharacterSpawnItem_DarkAlienRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "MeteorDrop",
+          "MinNum": 1,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_DarkAlien002" : {
+		  "FieldName": "CharacterSpawnItem_DarkAlienRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "MeteorDrop",
+          "MinNum": 2,
+          "MaxNum": 6,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_DarkAlien003" : {
+		  "FieldName": "CharacterSpawnItem_DarkAlienRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "MeteorDrop",
+          "MinNum": 3,
+          "MaxNum": 7,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_DarkAlien004" : {
+		  "FieldName": "CharacterSpawnItem_DarkAlienRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "MeteorDrop",
+          "MinNum": 4,
+          "MaxNum": 8,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_DarkAlien005" : {
+		  "FieldName": "CharacterSpawnItem_DarkAlienRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "MeteorDrop",
+          "MinNum": 5,
+          "MaxNum": 9,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        }
+    },
+    "DT_FieldLotteryNameDataTable": {
+        "CharacterSpawnItem_DarkAlienRank1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_DarkAlienRank2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_DarkAlienRank3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_DarkAlienRank4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_DarkAlienRank5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        }
+    },
+    "DT_PalMonsterParameter": {
+        "DarkAlien" : {
+			"WorkSuitability_MonsterFarm": 1
+        },
+        "BOSS_DarkAlien" : {
+			"WorkSuitability_MonsterFarm": 1
+        }
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Ronin/BP_Ronin.BP_Ronin_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/Ronin/BP_Ronin_SpawnItem.BP_Ronin_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Ronin/BP_Ronin_BOSS.BP_Ronin_BOSS_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/Ronin/BP_Ronin_SpawnItem.BP_Ronin_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Ronin/BP_Ronin_Dark.BP_Ronin_Dark_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/Ronin/BP_Ronin_SpawnItem.BP_Ronin_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Ronin/BP_Ronin_Dark_BOSS.BP_Ronin_Dark_BOSS_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/Ronin/BP_Ronin_SpawnItem.BP_Ronin_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Ronin/BP_Ronin_Dark_BOSS_Predator.BP_Ronin_Dark_BOSS_Predator_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/Ronin/BP_Ronin_SpawnItem.BP_Ronin_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_RoninRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}

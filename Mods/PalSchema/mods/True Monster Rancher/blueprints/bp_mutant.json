@@ -1,0 +1,94 @@
+{
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Mutant/BP_Mutant.BP_Mutant_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/Mutant/BP_Mutant_SpawnItem.BP_Mutant_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/Mutant/BP_Mutant_BOSS.BP_Mutant_BOSS_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/Mutant/BP_Mutant_SpawnItem.BP_Mutant_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_MutantRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "a8c799be_WindChimes001" : {
+		  "FieldName": "CharacterSpawnItem_WindChimesRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Fiber",
+          "MinNum": 1,
+          "MaxNum": 2,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_WindChimes002" : {
+		  "FieldName": "CharacterSpawnItem_WindChimesRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Fiber",
+          "MinNum": 1,
+          "MaxNum": 3,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_WindChimes003" : {
+		  "FieldName": "CharacterSpawnItem_WindChimesRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Fiber",
+          "MinNum": 1,
+          "MaxNum": 4,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_WindChimes004" : {
+		  "FieldName": "CharacterSpawnItem_WindChimesRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Fiber",
+          "MinNum": 1,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_WindChimes005" : {
+		  "FieldName": "CharacterSpawnItem_WindChimesRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Fiber",
+          "MinNum": 1,
+          "MaxNum": 6,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        }
+    },
+    "DT_FieldLotteryNameDataTable": {
+        "CharacterSpawnItem_WindChimesRank1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_WindChimesRank2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_WindChimesRank3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_WindChimesRank4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_WindChimesRank5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        }
+    },
+    "DT_PalMonsterParameter": {
+        "WindChimes" : {
+			"WorkSuitability_MonsterFarm": 1
+        },
+        "BOSS_WindChimes" : {
+			"WorkSuitability_MonsterFarm": 1
+        },
+		"WindChimes_Ice" : {
+			"WorkSuitability_MonsterFarm": 1
+        },
+		"BOSS_WindChimes_Ice" : {
+			"WorkSuitability_MonsterFarm": 1
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "a8c799be_Carbunclo001" : {
+		  "FieldName": "CharacterSpawnItem_CarbuncloRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "BerrySeeds",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Carbunclo002" : {
+		  "FieldName": "CharacterSpawnItem_CarbuncloRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "BerrySeeds",
+          "MinNum": 1,
+          "MaxNum": 2,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Carbunclo003" : {
+		  "FieldName": "CharacterSpawnItem_CarbuncloRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "BerrySeeds",
+          "MinNum": 1,
+          "MaxNum": 3,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Carbunclo004" : {
+		  "FieldName": "CharacterSpawnItem_CarbuncloRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "BerrySeeds",
+          "MinNum": 1,
+          "MaxNum": 4,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Carbunclo005" : {
+		  "FieldName": "CharacterSpawnItem_CarbuncloRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "BerrySeeds",
+          "MinNum": 1,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        }
+    },
+    "DT_FieldLotteryNameDataTable": {
+        "CharacterSpawnItem_CarbuncloRank1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_CarbuncloRank2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_CarbuncloRank3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_CarbuncloRank4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_CarbuncloRank5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        }
+    },
+    "DT_PalMonsterParameter": {
+        "Carbunclo" : {
+			"WorkSuitability_MonsterFarm": 1
+        },
+        "BOSS_Carbunclo" : {
+			"WorkSuitability_MonsterFarm": 1
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/GrimGirl/BP_GrimGirl.BP_GrimGirl_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/GrimGirl/BP_GrimGirl_SpawnItem.BP_GrimGirl_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/GrimGirl/BP_GrimGirl_BOSS.BP_GrimGirl_BOSS_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/GrimGirl/BP_GrimGirl_SpawnItem.BP_GrimGirl_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/GrimGirl/BP_GrimGirl_BOSS_Predator.BP_GrimGirl_BOSS_Predator_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/GrimGirl/BP_GrimGirl_SpawnItem.BP_GrimGirl_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_GrimGirlRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}

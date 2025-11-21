@@ -1,0 +1,186 @@
+{
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/WindChimes/BP_WindChimes.BP_WindChimes_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/WindChimes/BP_WindChimes_SpawnItem.BP_WindChimes_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/WindChimes/BP_WindChimes_BOSS.BP_WindChimes_BOSS_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/WindChimes/BP_WindChimes_SpawnItem.BP_WindChimes_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/WindChimes/BP_WindChimes_Ice.BP_WindChimes_Ice_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/WindChimes/BP_WindChimes_SpawnItem.BP_WindChimes_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/WindChimes/BP_WindChimes_Ice_BOSS.BP_WindChimes_Ice_BOSS_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/WindChimes/BP_WindChimes_SpawnItem.BP_WindChimes_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_WindChimesRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}

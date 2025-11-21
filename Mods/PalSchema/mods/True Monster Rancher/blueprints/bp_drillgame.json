@@ -1,0 +1,140 @@
+{
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/DrillGame/BP_DrillGame.BP_DrillGame_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/DrillGame/BP_DrillGame_SpawnItem.BP_DrillGame_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/DrillGame/BP_DrillGame_BOSS.BP_DrillGame_BOSS_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/DrillGame/BP_DrillGame_SpawnItem.BP_DrillGame_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    },
+    "/Game/Pal/Blueprint/Character/Monster/PalActorBP/DrillGame/BP_DrillGame_BOSS_Predator.BP_DrillGame_BOSS_Predator_C": {
+        "ActionComponent": {
+            "ActionMap": [
+                {
+                    "Key": "EPalActionType::SpawnItem",
+                    "Value": "/Game/DrillGame/BP_DrillGame_SpawnItem.BP_DrillGame_SpawnItem_C"
+                }
+            ]
+        },
+        "StaticCharacterParameterComponent": {
+            "SpawnItem": {
+                "FieldLotteryNameByRank": [
+                  {
+                    "Key": 1,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank1"
+                    }
+                  },
+                  {
+                    "Key": 2,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank2"
+                    }
+                  },
+                  {
+                    "Key": 3,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank3"
+                    }
+                  },
+                  {
+                    "Key": 4,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank4"
+                    }
+                  },
+                  {
+                    "Key": 5,
+                    "Value": {
+                      "Key": "CharacterSpawnItem_DrillGameRank5"
+                    }
+                  }
+                ]
+            }
+        }
+    }
+}

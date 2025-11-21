@@ -1,0 +1,82 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "a8c799be_GrimGirl001" : {
+		  "FieldName": "CharacterSpawnItem_GrimGirlRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "PalDarkParts",
+          "MinNum": 2,
+          "MaxNum": 3,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_GrimGirl002" : {
+		  "FieldName": "CharacterSpawnItem_GrimGirlRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "PalDarkParts",
+          "MinNum": 2,
+          "MaxNum": 4,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_GrimGirl003" : {
+		  "FieldName": "CharacterSpawnItem_GrimGirlRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "PalDarkParts",
+          "MinNum": 2,
+          "MaxNum": 4,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_GrimGirl004" : {
+		  "FieldName": "CharacterSpawnItem_GrimGirlRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "PalDarkParts",
+          "MinNum": 2,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_GrimGirl005" : {
+		  "FieldName": "CharacterSpawnItem_GrimGirlRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "PalDarkParts",
+          "MinNum": 2,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        }
+    },
+    "DT_FieldLotteryNameDataTable": {
+        "CharacterSpawnItem_GrimGirlRank1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_GrimGirlRank2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_GrimGirlRank3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_GrimGirlRank4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_GrimGirlRank5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        }
+    },
+    "DT_PalMonsterParameter": {
+        "GrimGirl" : {
+			"WorkSuitability_MonsterFarm": 1
+        },
+        "BOSS_GrimGirl" : {
+			"WorkSuitability_MonsterFarm": 1
+        },
+        "PREDATOR_GrimGirl" : {
+			"WorkSuitability_MonsterFarm": 1
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "843": {
+          "FieldName": "CharacterSpawnItem_Alpaca_1",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Leather",
+          "MinNum": 1,
+          "MaxNum": 1,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "844": {
+          "FieldName": "CharacterSpawnItem_Alpaca_2",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Leather",
+          "MinNum": 1,
+          "MaxNum": 2,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "845": {
+          "FieldName": "CharacterSpawnItem_Alpaca_3",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Leather",
+          "MinNum": 1,
+          "MaxNum": 3,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "846": {
+          "FieldName": "CharacterSpawnItem_Alpaca_4",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Leather",
+          "MinNum": 1,
+          "MaxNum": 4,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "847": {
+          "FieldName": "CharacterSpawnItem_Alpaca_5",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Leather",
+          "MinNum": 1,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        }
+    }
+}

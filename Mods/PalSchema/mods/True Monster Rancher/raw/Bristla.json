@@ -1,0 +1,79 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "a8c799be_LittleBriarRose001" : {
+		  "FieldName": "CharacterSpawnItem_LittleBriarRoseRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "WheatSeeds",
+          "MinNum": 1,
+          "MaxNum": 2,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_LittleBriarRose002" : {
+		  "FieldName": "CharacterSpawnItem_LittleBriarRoseRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "WheatSeeds",
+          "MinNum": 1,
+          "MaxNum": 3,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_LittleBriarRose003" : {
+		  "FieldName": "CharacterSpawnItem_LittleBriarRoseRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "WheatSeeds",
+          "MinNum": 1,
+          "MaxNum": 4,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_LittleBriarRose004" : {
+		  "FieldName": "CharacterSpawnItem_LittleBriarRoseRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "WheatSeeds",
+          "MinNum": 1,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_LittleBriarRose005" : {
+		  "FieldName": "CharacterSpawnItem_LittleBriarRoseRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "WheatSeeds",
+          "MinNum": 1,
+          "MaxNum": 6,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        }
+    },
+    "DT_FieldLotteryNameDataTable": {
+        "CharacterSpawnItem_LittleBriarRoseRank1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_LittleBriarRoseRank2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_LittleBriarRoseRank3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_LittleBriarRoseRank4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_LittleBriarRoseRank5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        }
+    },
+    "DT_PalMonsterParameter": {
+        "LittleBriarRose" : {
+			"WorkSuitability_MonsterFarm": 1
+        },
+        "BOSS_LittleBriarRose" : {
+			"WorkSuitability_MonsterFarm": 1
+        }
+    }
+}

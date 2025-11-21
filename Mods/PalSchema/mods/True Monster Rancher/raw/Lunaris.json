@@ -1,0 +1,79 @@
+{
+    "DT_ItemLotteryDataTable": {
+        "a8c799be_Mutant001" : {
+		  "FieldName": "CharacterSpawnItem_MutantRank1",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Pal_crystal_S",
+          "MinNum": 2,
+          "MaxNum": 3,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Mutant002" : {
+		  "FieldName": "CharacterSpawnItem_MutantRank2",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Pal_crystal_S",
+          "MinNum": 2,
+          "MaxNum": 4,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Mutant003" : {
+		  "FieldName": "CharacterSpawnItem_MutantRank3",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Pal_crystal_S",
+          "MinNum": 2,
+          "MaxNum": 5,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Mutant004" : {
+		  "FieldName": "CharacterSpawnItem_MutantRank4",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Pal_crystal_S",
+          "MinNum": 2,
+          "MaxNum": 6,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        },
+        "a8c799be_Mutant005" : {
+		  "FieldName": "CharacterSpawnItem_MutantRank5",
+          "SlotNo": 1,
+          "WeightInSlot": 1.0,
+          "StaticItemId": "Pal_crystal_S",
+          "MinNum": 2,
+          "MaxNum": 7,
+          "NumUnit": 1,
+          "TreasureBoxGrade": "Grade1"
+        }
+    },
+    "DT_FieldLotteryNameDataTable": {
+        "CharacterSpawnItem_MutantRank1": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MutantRank2": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MutantRank3": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MutantRank4": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        },
+        "CharacterSpawnItem_MutantRank5": {
+            "ItemSlot1_ProbabilityPercent": 100.0
+        }
+    },
+    "DT_PalMonsterParameter": {
+        "Mutant" : {
+			"WorkSuitability_MonsterFarm": 1
+        },
+        "BOSS_Mutant" : {
+			"WorkSuitability_MonsterFarm": 1
+        }
+    }
+}
